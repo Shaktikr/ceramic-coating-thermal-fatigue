@@ -144,6 +144,6 @@ Prince Kumar.
 Supervisors: Mr. Saurabh Tripathi and Dr. Ashutosh Tiwari. Plasma spray deposition was
 carried out at IIT Patna.
 
-*My contribution: <describe your role here — e.g. experimental rig assembly, thermal
-cycle testing, pyrometer data acquisition, optical microscopy, ImageJ crack analysis>.*
+My contribution: <experimental rig assembly, thermal
+cycle testing, pyrometer data acquisition, optical microscopy, ImageJ crack analysis>
 The data analysis and figures in this repository are my own work.
