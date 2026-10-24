@@ -1,0 +1,9 @@
+sample,composition,cnt_added,survived_thermal_cycle
+AZ,mu-Al2O3 + n-Al2O3 + 20 wt% ZrO2,no,no
+AZC,mu-Al2O3 + n-Al2O3 + 20 wt% ZrO2 + 4 wt% CNT,yes,no
+A3Y,mu-Al2O3 + n-Al2O3 + 20 wt% 3YSZ,no,yes
+A3YC,mu-Al2O3 + n-Al2O3 + 20 wt% 3YSZ + 4 wt% CNT,yes,no
+A8Y,mu-Al2O3 + n-Al2O3 + 20 wt% 8YSZ,no,no
+A8YC,mu-Al2O3 + n-Al2O3 + 20 wt% 8YSZ + 4 wt% CNT,yes,no
+A8YCe,mu-Al2O3 + n-Al2O3 + 20 wt% 8YSZ + 20 wt% CeO2,no,no
+Al2O3,micro-alumina baseline,no,no
